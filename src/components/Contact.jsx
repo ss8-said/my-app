@@ -23,13 +23,9 @@ const Contact = () => {
 
       {/* Social Media Links */}
       <div className="social-links">
-        <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
-          LinkedIn
-        </a>
-        <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">
-          GitHub
-        </a>
-        <a href="mailto:your-email@gmail.com">Email</a>
+      <a href="https://github.com/ss8-said"><i className="bx bxl-github"></i></a> <br />
+      <a href="https://www.linkedin.com/in/said-meziani-8282a6bb/"><i className="bx bxl-linkedin-square"></i></a><br />
+      <a href="meziani12345@gmail.com">Email</a>
       </div>
     </section>
   );
